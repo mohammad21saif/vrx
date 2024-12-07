@@ -1765,11 +1765,11 @@
       <static>false</static>
       <self_collide>false</self_collide>
     </model>
-    <include>
+    <!-- <include>
       <uri>file:///home/moonlab/ASV-Autonomous-Docking/install/share/vrx_gz/models/marker0</uri>
       <name>Marker0</name>
       <pose>-489.608642578125 202.9146728515625 2.2397298812866211 0 0 -2.1350999740885235</pose>
-    </include>
+    </include> -->
     <light name='sun' type='directional'>
       <pose>0 0 10 0 0 0</pose>
       <cast_shadows>true</cast_shadows>
